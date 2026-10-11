@@ -68,6 +68,8 @@ Portable **Agent Skills** that upgrade AI-built interfaces: stronger layout, typ
   <a href="#installing"><img src="https://img.shields.io/badge/Codex_%2F_Cursor_%2F_Claude-install-24292f?style=flat" alt="Codex, Cursor, Claude" /></a>
   &nbsp;
   <a href="https://www.tasteskill.dev/changelog"><img src="https://img.shields.io/badge/changelog-view-24292f?style=flat" alt="Changelog" /></a>
+  &nbsp;
+  <a href="https://gaiaskilltree.com/named/#explorer/leonxlnx/taste-skill"><img src="https://gaiaskilltree.com/badges/_assets/leonxlnx/taste-skill.svg?repo=leonxlnx/taste-skill" alt="Gaia Skill: taste-skill" /></a>
 </p>
 
 ## Disclaimer
