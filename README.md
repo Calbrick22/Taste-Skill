@@ -155,7 +155,7 @@ Four briefs, each built once without the skill and once with it. Nothing else ch
 | <img src="examples/v2/studio-without.webp" alt="Architecture studio page without the skill" /> | <img src="examples/v2/studio-with.webp" alt="Architecture studio page with the skill" /> |
 | <img src="examples/v2/legal-without.webp" alt="Contract tool page without the skill" /> | <img src="examples/v2/legal-with.webp" alt="Contract tool page with the skill" /> |
 
-The pictures on the right are real photographs from open archives, found and credited by the skill. The launch film is attached to the [v2.0.0 release](https://github.com/Leonxlnx/taste-skill/releases/tag/v2.0.0).
+The pictures on the right are real photographs from open archives, found and credited by the skill. Their credits are in [`examples/v2/CREDITS.md`](examples/v2/CREDITS.md). The launch film is attached to the [v2.0.0 release](https://github.com/Leonxlnx/taste-skill/releases/tag/v2.0.0).
 
 ## Skills
 
