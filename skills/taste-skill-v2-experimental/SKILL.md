@@ -680,7 +680,7 @@ npm install bootstrap
 # Shopify Polaris Web Components (Shopify apps only)
 # Add this to your app HTML head:
 #   <meta name="shopify-api-key" content="%SHOPIFY_API_KEY%" />
-#   <script src="[https://cdn.shopify.com/shopifycloud/polaris.js](https://cdn.shopify.com/shopifycloud/polaris.js)"></script>
+#   <script src="https://cdn.shopify.com/shopifycloud/polaris.js"></script>
 ```
 
 ### Canonical Documentation Sources
